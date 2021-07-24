@@ -3,16 +3,6 @@
 	"displayName": "Ocean Theme",
 	"description": "Color theme extension for VS Code",
 	"version": "1.0.0",
-	"publisher": "sent2dev",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Sent2Dev/ocean-theme"
-	},
-	"keywords": [
-		"ocean",
-		"color",
-		"color theme",
-	],
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
@@ -805,7 +795,7 @@
 		"name": "Attribute IDs",
 		"scope": "entity.other.attribute-name.id",
 		"settings": {
-		  "fontStyle": "normal",
+		  "fontStyle": "",
 		  "foreground": "#ffe300"
 		}
 	  },
@@ -813,7 +803,7 @@
 		"name": "Attribute class",
 		"scope": "entity.other.attribute-name.class.css",
 		"settings": {
-		  "fontStyle": "normal",
+		  "fontStyle": "",
 		  "foreground": "#ebaa56"
 		}
 	  },

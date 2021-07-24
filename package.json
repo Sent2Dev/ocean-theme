@@ -2,7 +2,17 @@
     "name": "ocean-theme",
     "displayName": "Ocean Theme",
     "description": "Color theme for VS Code",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "Sent2Dev",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Sent2Dev/ocean-theme"
+	},
+	"keywords": [
+		"ocean",
+		"color",
+		"color theme"
+	],
     "engines": {
         "vscode": "^1.58.0"
     },
@@ -14,7 +24,7 @@
             {
                 "label": "Ocean",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Ocen-color-theme.json"
+                "path": "./themes/Ocean-color-theme.json"
             }
         ]
     }
