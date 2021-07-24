@@ -8,6 +8,11 @@
 		"type": "git",
 		"url": "https://github.com/Sent2Dev/ocean-theme"
 	},
+	"keywords": [
+		"ocean",
+		"color",
+		"color theme",
+	],
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
